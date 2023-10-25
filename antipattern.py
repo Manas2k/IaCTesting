@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Oct  9 00:54:14 2020
-This is workshop 7 
+This is workshop 7 by manas 
 @author: mehedi.md.hasan
 """
 
